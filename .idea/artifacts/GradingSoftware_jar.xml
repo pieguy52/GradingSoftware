@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="GradingSoftware:jar">
+    <output-path>$USER_HOME$/Desktop</output-path>
+    <root id="archive" name="GradingSoftware.jar">
+      <element id="module-output" name="GradingSoftware" />
+    </root>
+  </artifact>
+</component>
